@@ -4,8 +4,14 @@ This is test project about xxx.com website's atomic design patter folder structu
 
 
 #First Step
- -- Install Node.JS to your computer and then check the version with <code>node -v</code> command.
- -- Then, you can open your IDE and clone this project yo your work folder with <code>git clone project-link</code> command.
- -- After that, please install all necessary npm packages which is <code>npm install</code> command.
- -- Last step, you can open your project with any IDE and then you can use <code>npm run dev</code> command to start this application.
+ -- Install Node.JS to your computer and then check the version with 
+ <code>node -v</code> 
+
+ -- Then, you can open your IDE and clone this project yo your work folder with 
+ <code>git clone project-link</code> 
+ -- After that, please install all necessary npm packages which is 
+ <code>npm install</code>
+ -- Last step, you can open your project with any IDE and then you can use 
+ <code>npm run dev</code> 
+ command to start this application.
  
